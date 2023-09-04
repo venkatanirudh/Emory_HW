@@ -1,1 +1,0 @@
-This Folder will contain the homeworks for each week after they are evaluated.
